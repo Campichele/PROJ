@@ -292,8 +292,7 @@ create table FILM
      FK_LANGUE smallint  not null  ,
      FK_SOUSTITRE smallint  not null  ,
      FK_DISTRIBUTEUR smallint  not null  ,
-     FK_NATIONALITE smallint identity (1, 1)   
-     ,
+     FK_NATIONALITE smallint ,
      constraint PK_FILM primary key (ID_FILM)
   ) 
 go
