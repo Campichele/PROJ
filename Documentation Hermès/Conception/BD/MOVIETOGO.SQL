@@ -273,9 +273,9 @@ create table FILM
      ID_LANGUE smallint  not null  ,
      ID_NATIONALITE smallint  not null  ,
      NOM char(32)  not null  ,
-     DATE_DE_SORTIE char(32)  not null  ,
-     DESCRIPTION char(32)  null  ,
-     DUREE datetime  not null  
+     DATE_DE_SORTIE date  not null  ,
+     DESCRIPTION text  null  ,
+     DUREE smallint not null  
      ,
      constraint PK_FILM primary key (ID_FILM)
   ) 
