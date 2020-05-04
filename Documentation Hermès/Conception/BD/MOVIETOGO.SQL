@@ -2,24 +2,26 @@
  ----------------------------------------------------------------------------
              Génération d'une base de données pour
                         SQL Server 2005
-                       (6/4/2020 15:37:55)
+                       (4/5/2020 14:00:31)
  ----------------------------------------------------------------------------
-     Nom de la base : MLR1
+     Nom de la base : MovieToGo
      Projet : Accueil Win'Design version 16
      Auteur : ETML
-     Date de dernière modification : 6/4/2020 15:37:35
+     Date de dernière modification : 4/5/2020 13:58:41
  ----------------------------------------------------------------------------
 */
+
+drop database MovieToGo
 go
 
 /* -----------------------------------------------------------------------------
-      OUVERTURE DE LA BASE MLR1
+      OUVERTURE DE LA BASE MovieToGo
 ----------------------------------------------------------------------------- */
 
-create database MLR1
+create database MovieToGo
 go
 
-use MLR1
+use MovieToGo
 go
 
 
@@ -47,9 +49,7 @@ create table FILM_POSSEDE
   (
      ID_FILM_POSSEDE smallint identity (1, 1)   ,
      ID_FILM smallint  not null  ,
-     ID_USER smallint  not null  ,
-     FK_FILM smallint  not null  ,
-     FK_USER smallint  not null  
+     ID_USER smallint  not null  
      ,
      constraint PK_FILM_POSSEDE primary key (ID_FILM_POSSEDE)
   ) 
@@ -71,9 +71,7 @@ create table COMMENTAIRE
      ID_USER smallint  not null  ,
      ID_FILM smallint  not null  ,
      COMMENTAIRE char(255)  not null  ,
-     STATUT bit  not null  ,
-     FK_FILM smallint  not null  ,
-     FK_USER smallint  not null  
+     STATUT bit  not null  
      ,
      constraint PK_COMMENTAIRE primary key (ID_COMMENTAIRE)
   ) 
@@ -117,7 +115,6 @@ create table UTILISATEUR
      PRENOM char(32)  not null  ,
      EMAIL char(32)  not null  ,
      PASSWORD varchar(255)  not null  ,
-     FK_DROIT smallint  not null  ,
      STATUT bit  not null  ,
      PSEUDO char(32)  not null  
      ,
@@ -142,11 +139,9 @@ go
 
 create table LIST_F
   (
+     ID_LIST_F smallint identity (1, 1)   ,
      ID_FILM smallint  not null  ,
-     ID_LIST smallint  not null  ,
-     FK_FILM smallint  not null  ,
-     FK_LIST smallint  not null  ,
-     ID_LIST_F smallint identity (1, 1)   
+     ID_LIST smallint  not null  
      ,
      constraint PK_LIST_F primary key (ID_LIST_F)
   ) 
@@ -166,8 +161,7 @@ create table LIST
   (
      ID_LIST smallint identity (1, 1)   ,
      ID_USER smallint  not null  ,
-     NOM char(32)  not null  ,
-     FK_USER smallint  not null  
+     NOM char(32)  not null  
      ,
      constraint PK_LIST primary key (ID_LIST)
   ) 
@@ -203,9 +197,7 @@ create table WISHLIST
   (
      ID_WISHLIST smallint identity (1, 1)   ,
      ID_FILM smallint  not null  ,
-     ID_USER smallint  not null  ,
-     FK_FILM smallint  not null  ,
-     FK_USER smallint  not null  
+     ID_USER smallint  not null  
      ,
      constraint PK_WISHLIST primary key (ID_WISHLIST)
   ) 
@@ -257,9 +249,7 @@ create table NOTE
      ID_NOTE smallint identity (1, 1)   ,
      ID_USER smallint  not null  ,
      ID_FILM smallint  not null  ,
-     NOTE tinyint  not null  ,
-     FK_FILM smallint  not null  ,
-     FK_USER smallint  not null  
+     NOTE tinyint  not null  
      ,
      constraint PK_NOTE primary key (ID_NOTE)
   ) 
@@ -283,16 +273,10 @@ create table FILM
      ID_LANGUE smallint  not null  ,
      ID_NATIONALITE smallint  not null  ,
      NOM char(32)  not null  ,
-     FK_REALISATEUR char(32)  not null  ,
      DATE_DE_SORTIE char(32)  not null  ,
      DESCRIPTION char(32)  null  ,
-     DUREE datetime  not null  ,
-     FK_GENRE smallint  not null  ,
-     FK_ACTEUR smallint  not null  ,
-     FK_LANGUE smallint  not null  ,
-     FK_SOUSTITRE smallint  not null  ,
-     FK_DISTRIBUTEUR smallint  not null  ,
-     FK_NATIONALITE smallint ,
+     DUREE datetime  not null  
+     ,
      constraint PK_FILM primary key (ID_FILM)
   ) 
 go
