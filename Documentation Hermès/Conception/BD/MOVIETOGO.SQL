@@ -2,26 +2,26 @@
  ----------------------------------------------------------------------------
              Génération d'une base de données pour
                         SQL Server 2005
-                       (4/5/2020 14:00:31)
+                       (5/5/2020 9:00:23)
  ----------------------------------------------------------------------------
-     Nom de la base : MovieToGo
+     Nom de la base : MLR1
      Projet : Accueil Win'Design version 16
      Auteur : ETML
-     Date de dernière modification : 4/5/2020 13:58:41
+     Date de dernière modification : 5/5/2020 8:58:59
  ----------------------------------------------------------------------------
 */
 
-drop database MovieToGo
+drop database MLR1
 go
 
 /* -----------------------------------------------------------------------------
-      OUVERTURE DE LA BASE MovieToGo
+      OUVERTURE DE LA BASE MLR1
 ----------------------------------------------------------------------------- */
 
-create database MovieToGo
+create database MLR1
 go
 
-use MovieToGo
+use MLR1
 go
 
 
@@ -273,9 +273,12 @@ create table FILM
      ID_LANGUE smallint  not null  ,
      ID_NATIONALITE smallint  not null  ,
      NOM char(32)  not null  ,
-     DATE_DE_SORTIE date  not null  ,
+     DATE_DE_SORTIE datetime  not null  ,
      DESCRIPTION text  null  ,
-     DUREE smallint not null  
+     DUREE smallint  not null  ,
+     PRIX decimal(10,2)  not null  ,
+     COUVERTURE image  null  ,
+     FICHIER text  null  
      ,
      constraint PK_FILM primary key (ID_FILM)
   ) 
