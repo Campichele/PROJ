@@ -51,7 +51,7 @@ namespace MovieToGoFilm
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Film}/{action=Index}/{id?}");
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }

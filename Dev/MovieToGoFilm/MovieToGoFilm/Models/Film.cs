@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace MovieToGoFilm.Models
 {
@@ -23,13 +25,20 @@ namespace MovieToGoFilm.Models
         public short IdLangue { get; set; }
         public short IdNationalite { get; set; }
         public string Nom { get; set; }
+
+        [Display(Name = "Date de publication")]
+        [DataType(DataType.Date)]
         public DateTime DateDeSortie { get; set; }
         public string Description { get; set; }
         public short Duree { get; set; }
 
+        [Display(Name = "Distributeur")]
         public virtual Distributeur IdDistributeurNavigation { get; set; }
+        [Display(Name = "Langue")]
         public virtual Langue IdLangueNavigation { get; set; }
+        [Display(Name = "Nationalité")]
         public virtual Nationalite IdNationaliteNavigation { get; set; }
+        [Display(Name = "Sous-titre")]
         public virtual SousTitre IdSousTitreNavigation { get; set; }
         public virtual ICollection<Commentaire> Commentaire { get; set; }
         public virtual ICollection<FaitPartie> FaitPartie { get; set; }

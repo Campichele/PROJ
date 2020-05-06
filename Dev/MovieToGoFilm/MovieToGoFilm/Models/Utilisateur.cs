@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 
 namespace MovieToGoFilm.Models
 {
@@ -13,16 +14,21 @@ namespace MovieToGoFilm.Models
             Note = new HashSet<Note>();
             Wishlist = new HashSet<Wishlist>();
         }
-
+        
         public short IdUser { get; set; }
+        
         public short IdDoit { get; set; }
         public string Nom { get; set; }
         public string Prenom { get; set; }
         public string Email { get; set; }
+        
+        [DataType(DataType.Password)]
+        [Display(Name = "Mot de passe")]
         public string Password { get; set; }
         public bool Statut { get; set; }
         public string Pseudo { get; set; }
 
+        [Display(Name = "Permission")]
         public virtual Droit IdDoitNavigation { get; set; }
         public virtual ICollection<Commentaire> Commentaire { get; set; }
         public virtual ICollection<FilmPossede> FilmPossede { get; set; }

@@ -17,12 +17,28 @@ namespace MovieToGoFilm.Controllers
         {
             _context = context;
         }
+        
 
         // GET: Film
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
-            var movieToGoContext = _context.Film.Include(f => f.IdDistributeurNavigation).Include(f => f.IdLangueNavigation).Include(f => f.IdNationaliteNavigation).Include(f => f.IdSousTitreNavigation);
-            return View(await movieToGoContext.ToListAsync());
+            var films = from m in _context.Film
+                         select m;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                films = films.Where(s => s.Nom.Contains(searchString));
+            }
+
+            return View(await films.ToListAsync());
+
+            // var movieToGoContext = _context.Film.Include(f => f.IdDistributeurNavigation).Include(f => f.IdLangueNavigation).Include(f => f.IdNationaliteNavigation).Include(f => f.IdSousTitreNavigation);
+            //return View(await movieToGoContext.ToListAsync());
+        }
+
+        [HttpPost]
+        public string Index(string searchString, bool notUsed)
+        {
+            return "From [HttpPost]Index : filter on " + searchString;
         }
 
         // GET: Film/Details/5
@@ -46,6 +62,7 @@ namespace MovieToGoFilm.Controllers
 
             return View(film);
         }
+
 
         // GET: Film/Create
         public IActionResult Create()
