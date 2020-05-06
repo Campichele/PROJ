@@ -134,3 +134,8 @@ C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs

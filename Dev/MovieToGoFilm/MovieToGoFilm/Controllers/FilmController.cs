@@ -27,8 +27,10 @@ namespace MovieToGoFilm.Controllers
             if (!String.IsNullOrEmpty(searchString))
             {
                 films = films.Where(s => s.Nom.Contains(searchString));
+                
             }
 
+            
             return View(await films.ToListAsync());
 
             // var movieToGoContext = _context.Film.Include(f => f.IdDistributeurNavigation).Include(f => f.IdLangueNavigation).Include(f => f.IdNationaliteNavigation).Include(f => f.IdSousTitreNavigation);
@@ -59,7 +61,7 @@ namespace MovieToGoFilm.Controllers
             {
                 return NotFound();
             }
-
+            ViewBag.IdFilm = film.IdFilm;
             return View(film);
         }
 
@@ -111,6 +113,7 @@ namespace MovieToGoFilm.Controllers
             ViewData["IdLangue"] = new SelectList(_context.Langue, "IdLangue", "Nom", film.IdLangue);
             ViewData["IdNationalite"] = new SelectList(_context.Nationalite, "IdNationalite", "Nom", film.IdNationalite);
             ViewData["IdSousTitre"] = new SelectList(_context.SousTitre, "IdSousTitre", "Nom", film.IdSousTitre);
+            
             return View(film);
         }
 
