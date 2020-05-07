@@ -61,6 +61,7 @@ namespace MovieToGoFilm.Controllers
             {
                 return NotFound();
             }
+            //Affiche les commentaires en fonction du film(id)
             ViewBag.IdFilm = film.IdFilm;
             return View(film);
         }
