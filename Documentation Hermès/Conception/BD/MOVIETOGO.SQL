@@ -277,7 +277,6 @@ create table FILM
      DESCRIPTION text  null  ,
      DUREE smallint  not null  ,
      PRIX decimal(10,2)  not null  ,
-     COUVERTURE image  null  ,
      FICHIER text  null  
      ,
      constraint PK_FILM primary key (ID_FILM)
