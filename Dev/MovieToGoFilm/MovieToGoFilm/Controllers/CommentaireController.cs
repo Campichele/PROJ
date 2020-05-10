@@ -90,7 +90,7 @@ namespace MovieToGoFilm.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("IdCommentaire,IdUser,IdFilm,Commentaire1,Statut")] Commentaire commentaire)
         {
-            short idfilm = commentaire.IdFilmNavigation.IdFilm;
+            
             if (ModelState.IsValid)
             {
                 _context.Add(commentaire);
@@ -191,6 +191,7 @@ namespace MovieToGoFilm.Controllers
             _context.Commentaire.Remove(commentaire);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
+            //return RedirectToAction("Index", new { commentaire.IdFilmNavigation.IdFilm});
         }
 
         private bool CommentaireExists(short id)
