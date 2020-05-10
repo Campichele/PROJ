@@ -27,7 +27,7 @@ using MovieToGoFilm.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de2d31b433dbfa8596217a568dcde179ee869b12", @"/Views/Utilisateur/Create.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de36e789d9bd4c76a92ce09320d4d47b55446b0a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"67367cda1f0c003fa1f9711b941a80b68f873628", @"/Views/_ViewImports.cshtml")]
     public class Views_Utilisateur_Create : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<MovieToGoFilm.Models.Utilisateur>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("text-danger"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

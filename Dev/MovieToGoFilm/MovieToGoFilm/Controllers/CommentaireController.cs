@@ -44,7 +44,6 @@ namespace MovieToGoFilm.Controllers
                                select m;
 
             commentaires = commentaires.Where(s => s.IdFilm == searchID);
-            
 
             return View(await commentaires.ToListAsync());
 
@@ -52,6 +51,7 @@ namespace MovieToGoFilm.Controllers
             //return View(await movieToGoContext.ToListAsync());
         }
 
+ 
 
         // GET: Commentaire/Details/5
         public async Task<IActionResult> Details(short? id)
@@ -70,8 +70,7 @@ namespace MovieToGoFilm.Controllers
                 return NotFound();
             }
 
-            //Affiche les commentaires en fonction du film(id)
-            
+            ViewBag.IdFilmNavigation = commentaire.IdFilmNavigation.IdFilm;
 
             return View(commentaire);
         }
@@ -91,6 +90,7 @@ namespace MovieToGoFilm.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("IdCommentaire,IdUser,IdFilm,Commentaire1,Statut")] Commentaire commentaire)
         {
+            short idfilm = commentaire.IdFilmNavigation.IdFilm;
             if (ModelState.IsValid)
             {
                 _context.Add(commentaire);
@@ -99,8 +99,11 @@ namespace MovieToGoFilm.Controllers
             }
             ViewData["IdFilm"] = new SelectList(_context.Film, "IdFilm", "Nom", commentaire.IdFilm);
             ViewData["IdUser"] = new SelectList(_context.Utilisateur, "IdUser", "Email", commentaire.IdUser);
+
             return View(commentaire);
         }
+
+       
 
         // GET: Commentaire/Edit/5
         //public async Task<IActionResult> Edit(short? id)
@@ -173,6 +176,8 @@ namespace MovieToGoFilm.Controllers
             {
                 return NotFound();
             }
+
+            ViewBag.IdFilmNavigation = commentaire.IdFilmNavigation.IdFilm;
 
             return View(commentaire);
         }

@@ -27,7 +27,7 @@ using MovieToGoFilm.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"d73f6f93f6a77cd669ee8cdffb3642041baa4fb0", @"/Views/Commentaire/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de36e789d9bd4c76a92ce09320d4d47b55446b0a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"67367cda1f0c003fa1f9711b941a80b68f873628", @"/Views/_ViewImports.cshtml")]
     public class Views_Commentaire_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<IEnumerable<MovieToGoFilm.Models.Commentaire>>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Create", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

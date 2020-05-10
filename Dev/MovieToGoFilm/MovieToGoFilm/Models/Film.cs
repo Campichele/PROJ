@@ -32,6 +32,12 @@ namespace MovieToGoFilm.Models
         public string Description { get; set; }
         public short Duree { get; set; }
 
+        [Display(Name = "Prix")]
+        [Column(TypeName = "decimal(18, 2)")]
+        public decimal Prix { get; set; }
+        [Display(Name = "Fichier")]
+        public string Fichier { get; set; }
+
         [Display(Name = "Distributeur")]
         public virtual Distributeur IdDistributeurNavigation { get; set; }
         [Display(Name = "Langue")]

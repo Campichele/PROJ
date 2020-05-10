@@ -123,7 +123,6 @@ C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
-C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
@@ -136,6 +135,18 @@ C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
-C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
 C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache

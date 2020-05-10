@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MovieToGoFilm.Models;
+using PagedList;
 
 namespace MovieToGoFilm.Controllers
 {
@@ -20,8 +21,27 @@ namespace MovieToGoFilm.Controllers
         
 
         // GET: Film
-        public async Task<IActionResult> Index(string searchString)
+        public ViewResult Index(string searchOrder, string currentFilter, string searchString, int? page)
         {
+            ViewBag.CurrentSort = searchOrder;
+            ViewBag.NomSearch= String.IsNullOrEmpty(searchOrder) ? "name_desc" : "";
+            ViewBag.DateSearch = searchOrder == "Date" ? "date_desc" : "Date";
+            ViewBag.DescSearch = searchOrder == "Description" ? "desc_desc" : "Description";
+            ViewBag.DureeSearch = searchOrder == "Duree" ? "duree_desc" : "Duree";
+            ViewBag.PrixSearch = searchOrder == "Prix" ? "prix_desc" : "Prix";
+            ViewBag.FichierSearch = searchOrder == "Fichier" ? "fichier_desc" : "Fichier";
+
+            if (searchString != null)
+            {
+                page = 1;
+            }
+            else
+            {
+                searchString = currentFilter;
+            }
+
+            ViewBag.CurrentFilter = searchString;
+
             var films = from m in _context.Film
                          select m;
             if (!String.IsNullOrEmpty(searchString))
@@ -30,8 +50,34 @@ namespace MovieToGoFilm.Controllers
                 
             }
 
-            
-            return View(await films.ToListAsync());
+            switch (searchOrder)
+            {
+                case "name_desc":
+                    films = films.OrderByDescending(s => s.Nom);
+                    break;
+                case "date_desc":
+                    films = films.OrderByDescending(s => s.DateDeSortie);
+                    break;
+                case "duree_desc":
+                    films = films.OrderByDescending(s => s.Duree);
+                    break;
+                case "desc_desc":
+                    films = films.OrderByDescending(s => s.Description);
+                    break;
+                case "fichier_desc":
+                    films = films.OrderByDescending(s => s.Fichier);
+                    break;
+                case "prix_desc":
+                    films = films.OrderByDescending(s => s.Prix);
+                    break;
+                default:
+                    films = films.OrderByDescending(s => s.DateDeSortie);
+                    break;
+            }
+
+            int pageSize = 3;
+            int pageNumber = (page ?? 1);
+            return View(films.ToPagedList(pageNumber, pageSize));
 
             // var movieToGoContext = _context.Film.Include(f => f.IdDistributeurNavigation).Include(f => f.IdLangueNavigation).Include(f => f.IdNationaliteNavigation).Include(f => f.IdSousTitreNavigation);
             //return View(await movieToGoContext.ToListAsync());
@@ -123,7 +169,7 @@ namespace MovieToGoFilm.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(short id, [Bind("IdFilm,IdDistributeur,IdSousTitre,IdLangue,IdNationalite,Nom,DateDeSortie,Description,Duree")] Film film)
+        public async Task<IActionResult> Edit(short id, [Bind("IdFilm,IdDistributeur,IdSousTitre,IdLangue,IdNationalite,Nom,DateDeSortie,Description,Duree,Prix,Fichier")] Film film)
         {
             if (id != film.IdFilm)
             {

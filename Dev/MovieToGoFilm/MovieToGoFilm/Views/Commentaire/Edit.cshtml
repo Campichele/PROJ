@@ -42,7 +42,10 @@
 </div>
 
 <div>
-    <a asp-action="Index" asp-controller="Film">Back to List</a>
+    <form asp-area="" asp-controller="Commentaire" asp-action="Index" method="get">
+        <input type="hidden" value="@ViewBag.IdFilmNavigation" name="searchID">
+        <input class="btn btn-primary" type="submit" value="Back" />
+    </form>
 </div>
 
 @section Scripts {
