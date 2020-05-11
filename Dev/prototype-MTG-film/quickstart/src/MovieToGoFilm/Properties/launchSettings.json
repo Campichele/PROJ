@@ -1,0 +1,32 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "https://movietogoapp.azurewebsites.net/",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "https://movietogoapp.azurewebsites.net/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://movietogoapp.azurewebsites.net/"
+    },
+    "MovieToGoFilm": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://movietogoapp.azurewebsites.net/"
+    }
+  }
+}

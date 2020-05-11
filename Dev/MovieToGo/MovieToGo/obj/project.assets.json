@@ -8579,19 +8579,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marco\\.nuget\\packages\\": {}
+    "C:\\Users\\emix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\c\\MovieToGo\\MovieToGo\\MovieToGo.csproj",
+      "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo\\MovieToGo\\MovieToGo.csproj",
       "projectName": "MovieToGo",
-      "projectPath": "C:\\temp\\c\\MovieToGo\\MovieToGo\\MovieToGo.csproj",
-      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\c\\MovieToGo\\MovieToGo\\obj\\",
+      "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo\\MovieToGo\\MovieToGo.csproj",
+      "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo\\MovieToGo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8652,7 +8652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
