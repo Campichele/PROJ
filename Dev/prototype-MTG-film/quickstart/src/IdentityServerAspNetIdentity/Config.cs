@@ -47,10 +47,10 @@ namespace IdentityServerAspNetIdentity
                     RequirePkce = true,
 
                     // where to redirect to after login
-                    RedirectUris = { "https://movietogoapp.azurewebsites.net/signin-oidc" },
+                    RedirectUris = { "http://movietogoapp.azurewebsites.net/signin-oidc" },
 
                     // where to redirect to after logout
-                    PostLogoutRedirectUris = { "https://movietogoapp.azurewebsites.net/signout-callback-oidc" },
+                    PostLogoutRedirectUris = { "http://movietogoapp.azurewebsites.net/signout-callback-oidc" },
 
                     AllowedScopes = new List<string>
                     {

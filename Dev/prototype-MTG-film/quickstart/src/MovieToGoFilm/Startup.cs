@@ -44,7 +44,7 @@ namespace MovieToGoFilm
                 .AddCookie("Cookies")
                 .AddOpenIdConnect("oidc", options =>
                 {
-                    options.Authority = "https://movietogois4.azurewebsites.net/";
+                    options.Authority = "https://identityserveraspnetidentity20200511082726.azurewebsites.net";
                     options.RequireHttpsMetadata = false;
 
                     options.ClientId = "mvc";

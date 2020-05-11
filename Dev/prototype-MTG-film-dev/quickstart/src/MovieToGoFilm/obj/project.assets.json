@@ -9623,19 +9623,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emix\\.nuget\\packages\\": {}
+    "C:\\Users\\Marco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
       "projectName": "MovieToGoFilm",
-      "projectPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
-      "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\obj\\",
+      "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9711,7 +9711,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.0.3, 3.0.3]"
+            "version": "[3.0.2, 3.0.2]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -9730,7 +9730,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -9739,7 +9739,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'PagedList 1.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "message": "Le package 'PagedList 1.17.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v3.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
       "libraryId": "PagedList",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.0"
@@ -9749,7 +9749,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'PagedList.Mvc 4.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.0'. This package may not be fully compatible with your project.",
+      "message": "Le package 'PagedList.Mvc 4.5.0' a été restauré en utilisant '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' au lieu du framework cible du projet '.NETCoreApp,Version=v3.0'. Ce package n'est peut-être pas totalement compatible avec votre projet.",
       "libraryId": "PagedList.Mvc",
       "targetGraphs": [
         ".NETCoreApp,Version=v3.0"
