@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
+    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {
+    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
         "projectName": "MovieToGoFilm",
-        "projectPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
         "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\MovieToGoFilm\\obj\\",
+        "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",

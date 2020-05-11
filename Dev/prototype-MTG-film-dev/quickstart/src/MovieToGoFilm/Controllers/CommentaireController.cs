@@ -91,6 +91,7 @@ namespace MovieToGoFilm.Controllers
         public async Task<IActionResult> Create([Bind("IdCommentaire,IdUser,IdFilm,Commentaire1,Statut")] Commentaire commentaire)
         {
             
+            
             if (ModelState.IsValid)
             {
                 _context.Add(commentaire);

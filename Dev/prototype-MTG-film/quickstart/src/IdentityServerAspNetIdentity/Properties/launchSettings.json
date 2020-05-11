@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "https://movietogois4.azurewebsites.net/",
+      "applicationUrl": "http://movietogois4.azurewebsites.net/",
       "sslPort": 0
     }
   },
@@ -11,7 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "https://movietogois4.azurewebsites.net/",
+      "launchUrl": "http://movietogois4.azurewebsites.net/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -22,7 +22,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "https://movietogois4.azurewebsites.net/"
+      "applicationUrl": "http://movietogois4.azurewebsites.net/"
     }
   }
 }

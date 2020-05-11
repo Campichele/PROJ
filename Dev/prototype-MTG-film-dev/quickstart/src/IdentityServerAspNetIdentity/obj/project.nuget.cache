@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/mkCySPVNSsP72yoAQxTyFxuXtPfHvqPyFG6SbZMHNP+lzQ2tCJTYRdMRpdPIEKsE+asRVcjgPMTcZqSaxhDQ==",
+  "dgSpecHash": "+sxjEJWBe1cfIBn9uvC2uHfYrl3UwTCl0tJF4s0PaKQcBb4MsxZyTd9VGiy3BaUx+BoWr+2RWQCEzlXFjO8zxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
+  "projectFilePath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emix\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\identityserver4\\3.1.0\\identityserver4.3.1.0.nupkg.sha512",

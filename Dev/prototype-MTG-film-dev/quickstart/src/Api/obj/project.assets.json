@@ -8896,11 +8896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\Api\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\Api\\Api.csproj",
       "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG-film\\quickstart\\src\\Api\\obj\\",
+      "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
