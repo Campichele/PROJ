@@ -8616,19 +8616,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emix\\.nuget\\packages\\": {}
+    "C:\\Users\\Maxime\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emix\\source\\repos\\MovieToGoAPI\\MovieToGoAPI\\MovieToGoAPI.csproj",
+      "projectUniqueName": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\MovieToGoAPI\\MovieToGoAPI\\MovieToGoAPI.csproj",
       "projectName": "MovieToGoAPI",
-      "projectPath": "C:\\Users\\emix\\source\\repos\\MovieToGoAPI\\MovieToGoAPI\\MovieToGoAPI.csproj",
-      "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emix\\source\\repos\\MovieToGoAPI\\MovieToGoAPI\\obj\\",
+      "projectPath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\MovieToGoAPI\\MovieToGoAPI\\MovieToGoAPI.csproj",
+      "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
+      "outputPath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\MovieToGoAPI\\MovieToGoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8693,7 +8693,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
