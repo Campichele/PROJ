@@ -96,7 +96,7 @@ namespace MovieToGoFilm.Controllers
             {
                 _context.Add(commentaire);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("Index", new { searchID = commentaire.IdFilm });
             }
             ViewData["IdFilm"] = new SelectList(_context.Film, "IdFilm", "Nom", commentaire.IdFilm);
             ViewData["IdUser"] = new SelectList(_context.Utilisateur, "IdUser", "Email", commentaire.IdUser);
@@ -191,7 +191,7 @@ namespace MovieToGoFilm.Controllers
             var commentaire = await _context.Commentaire.FindAsync(id);
             _context.Commentaire.Remove(commentaire);
             await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction("Index", new { searchID = commentaire.IdFilm });
             //return RedirectToAction("Index", new { commentaire.IdFilmNavigation.IdFilm});
         }
 
