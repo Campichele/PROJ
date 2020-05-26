@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SOrhRup6bjLB71zC0Jeg7gZXYVi41uWmMth4xo3qinCZYRYneVI4gDD2Xi/Gq3NDNfUDqYOV+dYqfUFdT232Lg==",
+  "dgSpecHash": "BJGg+7mexoCM8GeXQ/mmkdibX+qjONS+/YSj9vDJQ0N7bHyxbNAuWuY5MOehvcRQB8xiOOkqu8MHZotWS37Caw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+  "projectFilePath": "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev - Copie\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

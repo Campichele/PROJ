@@ -9,7 +9,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Api.Data;
+using Api.Models;
+
 
 
 namespace Api
@@ -27,10 +28,10 @@ namespace Api
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<MovieToGoContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MovieToGoContext")));
+            services.AddDbContext<CoreDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("MovieToGoContext")));
 
             services.AddControllers();
-            
+
             services.AddAuthentication("Bearer")
                 .AddJwtBearer("Bearer", options =>
                 {
@@ -40,7 +41,7 @@ namespace Api
                     options.Audience = "api1";
                 });
 
-            services.AddDbContext<MovieToGoContext>(options =>
+            services.AddDbContext<CoreDbContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("MovieToGoContext")));
         }
 
@@ -49,8 +50,8 @@ namespace Api
         {
             app.UseRouting();
 
-            app.UseAuthentication();
-            app.UseAuthorization();
+            //app.UseAuthentication();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
