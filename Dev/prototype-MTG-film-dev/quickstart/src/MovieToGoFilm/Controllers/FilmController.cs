@@ -7,6 +7,14 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using MovieToGoFilm.Models;
 using PagedList;
+using System.Net;
+using System.Net.Http;
+using System.Net.Http.Headers;
+using System.Threading.Tasks;
+
+
+using static System.Net.WebRequestMethods;
+using Newtonsoft.Json.Linq;
 
 namespace MovieToGoFilm.Controllers
 {
@@ -14,15 +22,52 @@ namespace MovieToGoFilm.Controllers
     {
         private readonly MovieToGoContext _context;
 
+        static HttpClient client = new HttpClient();
+
         public FilmController(MovieToGoContext context)
         {
+            if (client.BaseAddress != null)
+            {
+                client = new HttpClient();
+            }
+            client.BaseAddress = new Uri("http://localhost:5001/");
+            client.DefaultRequestHeaders.Accept.Clear();
+            client.DefaultRequestHeaders.Accept.Add(
+                new MediaTypeWithQualityHeaderValue("application/json"));
+
             _context = context;
         }
-        
+
+        static async Task<Film> GetFilmAsync(string path)
+        {
+            Film product = null;
+            HttpResponseMessage response = await client.GetAsync(path);
+            if (response.IsSuccessStatusCode)
+            {
+                product = await response.Content.ReadAsAsync<Film>();
+            }
+            return product;
+        }
+
+        static async Task<Film[]> GetFilmsAsync()
+        {
+            Film[] product = null;
+            HttpResponseMessage response = await client.GetAsync("api/Films");
+            if (response.IsSuccessStatusCode)
+            {
+                product = await response.Content.ReadAsAsync<Film[]>();
+            }
+            return product;
+        }
+
+
+
 
         // GET: Film
-        public ViewResult Index(string searchOrder, string currentFilter, string searchString, int? page)
+        public async Task<ViewResult> IndexAsync(string searchOrder, string currentFilter, string searchString, int? page)
         {
+            int pageSize = 99;
+            int pageNumber = (page ?? 1);
             ViewBag.CurrentSort = searchOrder;
             ViewBag.NomSearch= String.IsNullOrEmpty(searchOrder) ? "name_desc" : "";
             ViewBag.DateSearch = searchOrder == "Date" ? "date_desc" : "Date";
@@ -42,24 +87,28 @@ namespace MovieToGoFilm.Controllers
 
             ViewBag.CurrentFilter = searchString;
 
-            var films = from m in _context.Film
-                         select m;
+            //var films = from m in _context.Film
+            //select m;
+            var asyncFilms = await GetFilmsAsync();
+            IEnumerable<Film> films = asyncFilms.OrderByDescending(s => s.DateDeSortie); 
             if (!String.IsNullOrEmpty(searchString))
             {
                 films = films.Where(s => s.Nom.Contains(searchString));
-                
+                //var film = films.FirstOrDefault(films => films.Nom.Contains(searchString));
+
+
             }
 
             switch (searchOrder)
             {
                 case "name_desc":
-                    films = films.OrderByDescending(s => s.Nom);
+                    films = asyncFilms.OrderByDescending(s => s.Nom);
                     break;
                 case "date_desc":
-                    films = films.OrderByDescending(s => s.DateDeSortie);
+                    films = asyncFilms.OrderByDescending(s => s.DateDeSortie);
                     break;
                 case "duree_desc":
-                    films = films.OrderByDescending(s => s.Duree);
+                    films = asyncFilms.OrderByDescending(s => s.Duree);
                     break;
                 case "desc_desc":
                     //films = films.OrderByDescending(s => s.Description);
@@ -68,15 +117,14 @@ namespace MovieToGoFilm.Controllers
                     //films = films.OrderByDescending(s => s.Fichier);
                     break;
                 case "prix_desc":
-                    films = films.OrderByDescending(s => s.Prix);
+                    films = asyncFilms.OrderByDescending(s => s.Prix);
                     break;
                 default:
-                    films = films.OrderByDescending(s => s.DateDeSortie);
+                    films = asyncFilms.OrderByDescending(s => s.DateDeSortie);
                     break;
             }
 
-            int pageSize = 99;
-            int pageNumber = (page ?? 1);
+            
             return View(films.ToPagedList(pageNumber, pageSize));
 
             // var movieToGoContext = _context.Film.Include(f => f.IdDistributeurNavigation).Include(f => f.IdLangueNavigation).Include(f => f.IdNationaliteNavigation).Include(f => f.IdSousTitreNavigation);
@@ -240,5 +288,33 @@ namespace MovieToGoFilm.Controllers
         {
             return _context.Film.Any(e => e.IdFilm == id);
         }
+
+        ///Stripe
+        ///
+        public async Task<IActionResult> Acheter(short? IdFilm)
+        {
+            //var price = (from p in _context.Film select new Film() { Prix = p.Prix });
+            //price = price.Where(s => s.IdFilm == IdFilm);
+            //ViewBag.price = price;
+
+            //ViewBag.IdFilm = IdFilm;
+
+            var film2 = await _context.Film.FindAsync(IdFilm);
+
+            string pathAndId = "api/Films/" + IdFilm;
+
+            var film = await GetFilmAsync(pathAndId);
+
+
+            decimal price = film.Prix;
+            string name = film.Nom;
+            //passer l'id fu film au controller
+            ViewBag.price = price * 100;
+            ViewBag.Displayprice = price;
+            ViewBag.id = IdFilm;
+            ViewBag.name = name;
+            return View();
+        }
+
     }
 }

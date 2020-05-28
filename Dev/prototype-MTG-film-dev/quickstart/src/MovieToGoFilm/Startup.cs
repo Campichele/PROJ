@@ -11,6 +11,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using MovieToGoFilm.Models;
+using Stripe;
 
 namespace MovieToGoFilm
 {
@@ -56,13 +57,20 @@ namespace MovieToGoFilm
                     options.Scope.Add("api1");
                     options.Scope.Add("offline_access");
                 });
+
+            ///StripeSettings
+            services.AddControllersWithViews();
+            services.Configure<Acheter>(Configuration.GetSection("Stripe"));
+
         }
 
-       
+
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        [Obsolete]
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            StripeConfiguration.SetApiKey(Configuration.GetSection("Stripe")["SecretKey"]);
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

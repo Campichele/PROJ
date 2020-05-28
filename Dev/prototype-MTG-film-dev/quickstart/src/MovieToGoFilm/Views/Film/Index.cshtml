@@ -72,6 +72,10 @@
                     <a asp-action="Edit" asp-route-id="@item.IdFilm">Edit</a> |
                     <a asp-action="Details" asp-route-id="@item.IdFilm">Details</a> |
                     <a asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
+                    <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                        <input class="btn btn-primary" type="submit" value="Acheter" />
+                    </form>
                 </td>
             </tr>
         }

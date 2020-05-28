@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
+    "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
   },
   "projects": {
-    "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {
+    "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "projectUniqueName": "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
         "projectName": "MovieToGoFilm",
-        "projectPath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
-        "packagesPath": "C:\\Users\\Maxime\\.nuget\\packages\\",
-        "outputPath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\obj\\",
+        "projectPath": "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emix\\Desktop\\prototype-MTG-film-dev\\quickstart\\src\\MovieToGoFilm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Maxime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +38,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
             "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
               "target": "Package",
               "version": "[3.0.0, )"
@@ -63,6 +67,10 @@
             "PagedList.Mvc": {
               "target": "Package",
               "version": "[4.5.0, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[37.4.0, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -109,7 +117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
