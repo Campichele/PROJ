@@ -11,137 +11,20 @@
  ----------------------------------------------------------------------------
 */
 
+drop database MTGDB
+go
 
 /* -----------------------------------------------------------------------------
       OUVERTURE DE LA BASE MLR1
 ----------------------------------------------------------------------------- */
 
-create database MLR1
+create database MTGDB
 go
 
-use MLR1
+use MTGDB
 go
 
 
-CREATE TABLE [dbo].[AspNetRoleClaims](
-	[Id] [int] NOT NULL,
-	[RoleId] [nvarchar](450) NOT NULL,
-	[ClaimType] [nvarchar](max) NULL,
-	[ClaimValue] [nvarchar](max) NULL,
- CONSTRAINT [PK_ASPNETROLECLAIMS] PRIMARY KEY CLUSTERED 
-(
-	[Id] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-/****** Object:  Table [dbo].[AspNetRoles]    Script Date: 10.05.2020 12:17:18 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[AspNetRoles](
-	[Id] [nvarchar](450) NOT NULL,
-	[ConcurrencyStamp] [nvarchar](max) NULL,
-	[Name] [varchar](256) NULL,
-	[NormalizedName] [varchar](256) NULL,
- CONSTRAINT [PK_AspNetRoles] PRIMARY KEY CLUSTERED 
-(
-	[Id] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-/****** Object:  Table [dbo].[AspNetUserClaims]    Script Date: 10.05.2020 12:17:18 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[AspNetUserClaims](
-	[Id] [int] NOT NULL,
-	[UserId] [nvarchar](450) NOT NULL,
-	[ClaimType] [nvarchar](max) NULL,
-	[ClaimValue] [nvarchar](max) NULL,
- CONSTRAINT [PK_ASPNETUSERCLAIMS] PRIMARY KEY CLUSTERED 
-(
-	[Id] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-/****** Object:  Table [dbo].[AspNetUserLogins]    Script Date: 10.05.2020 12:17:18 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[AspNetUserLogins](
-	[LoginProvider] [varchar](450) NOT NULL,
-	[ProviderKey] [varchar](450) NOT NULL,
-	[UserId] [nvarchar](450) NOT NULL,
-	[ProviderDisplayName] [text] NULL,
- CONSTRAINT [PK_AspNetUserLogins] PRIMARY KEY CLUSTERED 
-(
-	[LoginProvider] ASC,
-	[ProviderKey] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-/****** Object:  Table [dbo].[AspNetUserRoles]    Script Date: 10.05.2020 12:17:18 ******/
-SET ANSI_NULLS ON
-GO
-SET QUOTED_IDENTIFIER ON
-GO
-CREATE TABLE [dbo].[AspNetUserRoles](
-	[UserId] [nvarchar](450) NOT NULL,
-	[RoleId] [nvarchar](450) NOT NULL,
- CONSTRAINT [PK_AspNetUserRoles] PRIMARY KEY CLUSTERED 
-(
-	[UserId] ASC,
-	[RoleId] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY]
-GO
-
-
-
-CREATE TABLE [dbo].[AspNetUserTokens](
-	[UserId] [nvarchar](450) NOT NULL,
-	[LoginProvider] [nvarchar](450) NOT NULL,
-	[Name] [nvarchar](450) NOT NULL,
-	[Value] [nvarchar](max) NULL,
- CONSTRAINT [PK_AspNetUserTokens] PRIMARY KEY CLUSTERED 
-(
-	[UserId] ASC,
-	[LoginProvider] ASC,
-	[Name] ASC
-)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
-) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
-GO
-
-
-
-/* -----------------------------------------------------------------------------
-      TABLE : UTILISATEUR
------------------------------------------------------------------------------ */
-
-GO
-CREATE TABLE [dbo].[AspNetUsers] (
-    [Id]                   NVARCHAR (450)     NOT NULL,
-    [AccessFailedCount]    INT                NOT NULL,
-    [ConcurrencyStamp]     NVARCHAR (MAX)     NULL,
-    [Email]                NVARCHAR (256)     NULL,
-    [EmailConfirmed]       BIT                NOT NULL,
-    [LockoutEnabled]       BIT                NOT NULL,
-    [LockoutEnd]           DATETIMEOFFSET (7) NULL,
-    [NormalizedEmail]      NVARCHAR (256)     NULL,
-    [NormalizedUserName]   NVARCHAR (256)     NULL,
-    [PasswordHash]         NVARCHAR (MAX)     NULL,
-    [PhoneNumber]          NVARCHAR (MAX)     NULL,
-    [PhoneNumberConfirmed] BIT                NOT NULL,
-    [SecurityStamp]        NVARCHAR (MAX)     NULL,
-    [TwoFactorEnabled]     BIT                NOT NULL,
-    [UserName]             NVARCHAR (256)     NULL,
-	[NOM] 					char(32)  not null  ,
-    [PRENOM] 					char(32)  not null  ,
-    CONSTRAINT [PK_AspNetUsers] PRIMARY KEY CLUSTERED ([Id] ASC)
-)
 
 /* -----------------------------------------------------------------------------
       TABLE : NATIONALITE
@@ -166,11 +49,16 @@ create table FILM_POSSEDE
   (
      ID_FILM_POSSEDE smallint identity (1, 1)   ,
      ID_FILM smallint  not null  ,
-     [Id] NVARCHAR (450) NOT NULL 
+     ID_USER smallint  not null  
      ,
      constraint PK_FILM_POSSEDE primary key (ID_FILM_POSSEDE)
   ) 
 go
+
+
+
+/*      INDEX DE FILM_POSSEDE      */
+
 
 
 /* -----------------------------------------------------------------------------
@@ -180,7 +68,7 @@ go
 create table COMMENTAIRE
   (
      ID_COMMENTAIRE smallint identity (1, 1)   ,
-     [Id] NVARCHAR (450) NOT NULL,
+     ID_USER smallint  not null  ,
      ID_FILM smallint  not null  ,
      COMMENTAIRE char(255)  not null  ,
      STATUT bit  not null  
@@ -197,6 +85,51 @@ go
 
 
 /*      INDEX DE COMMENTAIRE      */
+
+
+
+/* -----------------------------------------------------------------------------
+      TABLE : DROIT
+----------------------------------------------------------------------------- */
+
+create table DROIT
+  (
+     ID_DOIT smallint identity (1, 1)   ,
+     NOM char(32)  not null  
+     ,
+     constraint PK_DROIT primary key (ID_DOIT)
+  ) 
+go
+
+
+
+/* -----------------------------------------------------------------------------
+      TABLE : UTILISATEUR
+----------------------------------------------------------------------------- */
+
+create table UTILISATEUR
+  (
+     ID_USER smallint identity (1, 1)   ,
+     ID_DOIT smallint  not null  ,
+     NOM char(32)  not null  ,
+     PRENOM char(32)  not null  ,
+     EMAIL char(32)  not null  ,
+     PASSWORD varchar(255)  not null  ,
+     STATUT bit  not null  ,
+     PSEUDO char(32)  not null  
+     ,
+     constraint PK_UTILISATEUR primary key (ID_USER)
+  ) 
+go
+
+DECLARE @current_user char(30)
+SET @current_user = CURRENT_USER
+exec sp_addextendedproperty N'MS_Description', N'actif/non actif (ban)', N'user', @current_user, N'table', N'UTILISATEUR',N'column', N'STATUT'
+go
+
+
+
+/*      INDEX DE UTILISATEUR      */
 
 
 
@@ -227,7 +160,7 @@ go
 create table LIST
   (
      ID_LIST smallint identity (1, 1)   ,
-     [Id] NVARCHAR (450) NOT NULL,
+     ID_USER smallint  not null  ,
      NOM char(32)  not null  
      ,
      constraint PK_LIST primary key (ID_LIST)
@@ -248,7 +181,8 @@ create table REALISATEUR
   (
      ID_REALISATEUR smallint identity (1, 1)   ,
      NOM char(32)  not null  ,
-     PRENOM char(32)  not null,
+     PRENOM char(32)  not null  
+     ,
      constraint PK_REALISATEUR primary key (ID_REALISATEUR)
   ) 
 go
@@ -263,7 +197,7 @@ create table WISHLIST
   (
      ID_WISHLIST smallint identity (1, 1)   ,
      ID_FILM smallint  not null  ,
-     [Id] NVARCHAR (450) NOT NULL 
+     ID_USER smallint  not null  
      ,
      constraint PK_WISHLIST primary key (ID_WISHLIST)
   ) 
@@ -313,7 +247,7 @@ go
 create table NOTE
   (
      ID_NOTE smallint identity (1, 1)   ,
-     [Id] NVARCHAR (450) NOT NULL ,
+     ID_USER smallint  not null  ,
      ID_FILM smallint  not null  ,
      NOTE tinyint  not null  
      ,
@@ -472,16 +406,16 @@ go
 
 
 alter table FILM_POSSEDE 
-     add constraint FK_FILM_POSSEDE_UTILISATEUR foreign key ([Id]) 
-               references [dbo].[AspNetUsers] ([Id])
+     add constraint FK_FILM_POSSEDE_UTILISATEUR foreign key (ID_USER) 
+               references UTILISATEUR (ID_USER)
 go
 
 
 
 
 alter table COMMENTAIRE 
-     add constraint FK_COMMENTAIRE_UTILISATEUR foreign key ([Id]) 
-               references [dbo].[AspNetUsers] ([Id])
+     add constraint FK_COMMENTAIRE_UTILISATEUR foreign key (ID_USER) 
+               references UTILISATEUR (ID_USER)
 go
 
 
@@ -491,6 +425,16 @@ alter table COMMENTAIRE
      add constraint FK_COMMENTAIRE_FILM foreign key (ID_FILM) 
                references FILM (ID_FILM)
 go
+
+
+
+
+alter table UTILISATEUR 
+     add constraint FK_UTILISATEUR_DROIT foreign key (ID_DOIT) 
+               references DROIT (ID_DOIT)
+go
+
+
 
 
 alter table LIST_F 
@@ -510,8 +454,8 @@ go
 
 
 alter table LIST 
-     add constraint FK_LIST_UTILISATEUR foreign key ([Id]) 
-               references [dbo].[AspNetUsers] ([Id])
+     add constraint FK_LIST_UTILISATEUR foreign key (ID_USER) 
+               references UTILISATEUR (ID_USER)
 go
 
 
@@ -526,16 +470,16 @@ go
 
 
 alter table WISHLIST 
-     add constraint FK_WISHLIST_UTILISATEUR foreign key ([Id]) 
-               references [dbo].[AspNetUsers] ([Id])
+     add constraint FK_WISHLIST_UTILISATEUR foreign key (ID_USER) 
+               references UTILISATEUR (ID_USER)
 go
 
 
 
 
 alter table NOTE 
-     add constraint FK_NOTE_UTILISATEUR foreign key ([Id]) 
-               references [dbo].[AspNetUsers] ([Id])
+     add constraint FK_NOTE_UTILISATEUR foreign key (ID_USER) 
+               references UTILISATEUR (ID_USER)
 go
 
 
@@ -626,68 +570,7 @@ alter table FAIT_PARTIE
                references FILM (ID_FILM)
 go
 
-/*
-ALTER TABLE [dbo].[AspNetUserClaims] WITH CHECK ADD CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [dbo].[AspNetUsers] ([Id]) ON DELETE CASCADE
-GO
-*/
-ALTER TABLE [dbo].[AspNetUserClaims] WITH CHECK ADD CONSTRAINT [FK_AspNetUserClaims_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [dbo].[AspNetUsers] ([Id]) ON DELETE CASCADE
-GO
 
-ALTER TABLE [dbo].[AspNetUserLogins] WITH CHECK ADD CONSTRAINT [FK_AspNetUserLogins_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [dbo].[AspNetUsers] ([Id]) ON DELETE CASCADE
-GO
-
-ALTER TABLE [dbo].[AspNetUserRoles] WITH CHECK ADD CONSTRAINT [FK_AspNetUserRoles_AspNetRoles_RoleId] FOREIGN KEY ([RoleId]) REFERENCES [dbo].[AspNetRoles] ([Id]) ON DELETE CASCADE
-GO
-
-ALTER TABLE [dbo].[AspNetUserRoles] WITH CHECK ADD CONSTRAINT [FK_AspNetUserRoles_AspNetUsers_UserId] FOREIGN KEY ([UserId]) REFERENCES [dbo].[AspNetUsers] ([Id]) ON DELETE CASCADE
-GO
-
-/*DATAS*/
---users
-INSERT INTO [dbo].[AspNetUsers] ([Id], [AccessFailedCount], [ConcurrencyStamp], [Email], [EmailConfirmed], [LockoutEnabled], [LockoutEnd], [NormalizedEmail], [NormalizedUserName], [PasswordHash], [PhoneNumber], [PhoneNumberConfirmed], [SecurityStamp], [TwoFactorEnabled], [UserName], [NOM], [PRENOM]) VALUES (1,0,NULL,NULL,0,0,NULL,NULL,NULL,NULL,NULL,0,NULL,0,'pat','Ducoin','Patrick')
-GO
-
---DISTRIBUTEUR
-SET IDENTITY_INSERT DISTRIBUTEUR  ON 
-INSERT DISTRIBUTEUR ([ID_DISTRIBUTEUR],[NOM]) VALUES (1,'Gaumont')
-SET IDENTITY_INSERT DISTRIBUTEUR OFF
-GO
-
-
---LANGUE
-SET IDENTITY_INSERT LANGUE  ON 
-INSERT LANGUE ([ID_LANGUE], [NOM]) VALUES (1,'Francais')
-SET IDENTITY_INSERT LANGUE OFF
-GO
-
---NATIONALITE
-SET IDENTITY_INSERT NATIONALITE  ON 
-INSERT NATIONALITE ([ID_NATIONALITE], [NOM]) VALUES (1,'Francais')
-SET IDENTITY_INSERT NATIONALITE OFF
-GO
-
---SOUS_TITRE
-SET IDENTITY_INSERT SOUS_TITRE  ON 
-INSERT SOUS_TITRE ([ID_SOUS_TITRE], [NOM]) VALUES (1,'ENG')
-SET IDENTITY_INSERT SOUS_TITRE OFF
-GO
-
---FILM
-SET IDENTITY_INSERT FILM  ON 
-INSERT FILM ([ID_FILM], [ID_DISTRIBUTEUR],[ID_SOUS_TITRE],[ID_LANGUE],[ID_NATIONALITE],[NOM],[DATE_DE_SORTIE],[DESCRIPTION],[DUREE],[PRIX],[FICHIER]) VALUES (1,1,1,1,1,'Avengers',2012-01-01,'test',123,12.00,'test')
-SET IDENTITY_INSERT FILM OFF
-GO
-
-
---Commentaires
-SET IDENTITY_INSERT COMMENTAIRE  ON 
-INSERT COMMENTAIRE (ID_COMMENTAIRE, [Id], ID_FILM, COMMENTAIRE, STATUT) VALUES (1,1,1,'Je suis satisfait',0)
-INSERT COMMENTAIRE (ID_COMMENTAIRE, [Id], ID_FILM, COMMENTAIRE, STATUT) VALUES (2,1,1,'2eme comm',0)
-INSERT COMMENTAIRE (ID_COMMENTAIRE, [Id], ID_FILM, COMMENTAIRE, STATUT) VALUES (3,1,1,'fonctionne2?',0)
-INSERT COMMENTAIRE (ID_COMMENTAIRE, [Id], ID_FILM, COMMENTAIRE, STATUT) VALUES (4,1,1,'Je suis satisfait',0)
-INSERT COMMENTAIRE (ID_COMMENTAIRE, [Id], ID_FILM, COMMENTAIRE, STATUT) VALUES (5,1,1,'newnewn',0)
-SET IDENTITY_INSERT COMMENTAIRE OFF
-GO
 
 
 /*
