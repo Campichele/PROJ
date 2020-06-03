@@ -10,10 +10,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.AspNetCore.Identity;
 using MovieToGo.Models;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Stripe;
 
 namespace MovieToGo
 {
@@ -39,11 +38,18 @@ namespace MovieToGo
                     .AddEntityFrameworkStores<MovieToGoDbContext>();
 
             services.AddControllersWithViews();
+
+            ///StripeSettings
+            services.AddControllersWithViews();
+            services.Configure<Acheter>(Configuration.GetSection("Stripe"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+        [Obsolete]
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //stripe
+            StripeConfiguration.SetApiKey(Configuration.GetSection("Stripe")["SecretKey"]);
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

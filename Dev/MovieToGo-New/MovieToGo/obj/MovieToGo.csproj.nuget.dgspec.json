@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
         "projectName": "MovieToGo",
-        "projectPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
-        "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,6 +72,10 @@
               "target": "Package",
               "version": "[4.5.0, )"
             },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[37.6.0, )"
+            },
             "X.PagedList.Mvc": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -95,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
