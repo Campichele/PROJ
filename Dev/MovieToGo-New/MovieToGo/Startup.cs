@@ -29,8 +29,11 @@ namespace MovieToGo
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContextPool<MovieToGoDbContext>(
-                options => options.UseSqlServer(Configuration.GetConnectionString("MovieToGoDatabase")));
+            //services.AddDbContextPool<MovieToGoDbContext>(
+            //    options => options.UseSqlServer(Configuration.GetConnectionString("MovieToGoDatabase")));
+
+            var connection = Configuration.GetConnectionString("MovieToGoDatabase");
+            services.AddDbContext<MovieToGoDbContext>(options => options.UseSqlServer(connection));
 
             services.AddIdentity<IdentityUser, IdentityRole>()
                     .AddEntityFrameworkStores<MovieToGoDbContext>();

@@ -517,10 +517,6 @@ C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\runtimes\w
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.csprojAssemblyReference.cache
-C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.csproj.CoreCompileInputs.cache
-C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.RazorAssemblyInfo.cache
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.RazorAssemblyInfo.cs
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.AssemblyInfoInputs.cache
@@ -586,3 +582,16 @@ C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.dll
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.pdb
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.genruntimeconfig.cache
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.dll
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.csproj.CoreCompileInputs.cache
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\PagedList.dll
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
