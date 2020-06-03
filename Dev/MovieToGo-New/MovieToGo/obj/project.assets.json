@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Microsoft.AspNet.WebApi.Client/5.2.7": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "10.0.1",
-          "Newtonsoft.Json.Bson": "1.0.1"
-        },
-        "compile": {
-          "lib/netstandard2.0/System.Net.Http.Formatting.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/System.Net.Http.Formatting.dll": {}
-        }
-      },
       "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
         "type": "package",
         "compile": {
@@ -935,19 +922,6 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "Newtonsoft.Json.Bson/1.0.1": {
-        "type": "package",
-        "dependencies": {
-          "NETStandard.Library": "1.6.1",
-          "Newtonsoft.Json": "10.0.1"
-        },
-        "compile": {
-          "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard1.3/Newtonsoft.Json.Bson.dll": {}
-        }
-      },
       "NuGet.Frameworks/4.7.0": {
         "type": "package",
         "dependencies": {
@@ -958,27 +932,6 @@
         },
         "runtime": {
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
-        }
-      },
-      "PagedList/1.17.0": {
-        "type": "package",
-        "compile": {
-          "lib/net40/PagedList.dll": {}
-        },
-        "runtime": {
-          "lib/net40/PagedList.dll": {}
-        }
-      },
-      "PagedList.Mvc/4.5.0": {
-        "type": "package",
-        "dependencies": {
-          "PagedList": "1.17.0"
-        },
-        "compile": {
-          "lib/net40/PagedList.Mvc.dll": {}
-        },
-        "runtime": {
-          "lib/net40/PagedList.Mvc.dll": {}
         }
       },
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -1185,20 +1138,6 @@
             "assetType": "native",
             "rid": "win-x86"
           }
-        }
-      },
-      "Stripe.net/37.6.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Bcl.AsyncInterfaces": "1.1.0",
-          "Newtonsoft.Json": "9.0.1",
-          "System.Configuration.ConfigurationManager": "4.5.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Stripe.net.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Stripe.net.dll": {}
         }
       },
       "System.AppContext/4.3.0": {
@@ -1487,7 +1426,7 @@
           "System.Security.Permissions": "4.5.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Configuration.ConfigurationManager.dll": {}
@@ -2183,7 +2122,7 @@
           "System.Security.Principal.Windows": "4.5.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Security.AccessControl.dll": {}
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.AccessControl.dll": {}
@@ -2433,7 +2372,7 @@
           "System.Security.AccessControl": "4.5.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Security.Permissions.dll": {}
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.Permissions.dll": {}
@@ -2445,7 +2384,7 @@
           "Microsoft.NETCore.Platforms": "2.0.0"
         },
         "compile": {
-          "ref/netstandard2.0/System.Security.Principal.Windows.dll": {}
+          "ref/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/System.Security.Principal.Windows.dll": {}
@@ -2691,36 +2630,10 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
-      },
-      "X.PagedList.Mvc/8.0.7": {
-        "type": "package",
-        "compile": {
-          "lib/net48/X.PagedList.Mvc.dll": {}
-        },
-        "runtime": {
-          "lib/net48/X.PagedList.Mvc.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "Microsoft.AspNet.WebApi.Client/5.2.7": {
-      "sha512": "/76fAHknzvFqbznS6Uj2sOyE9rJB3PltY+f53TH8dX9RiGhk02EhuFCWljSj5nnqKaTsmma8DFR50OGyQ4yJ1g==",
-      "type": "package",
-      "path": "microsoft.aspnet.webapi.client/5.2.7",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/System.Net.Http.Formatting.dll",
-        "lib/net45/System.Net.Http.Formatting.xml",
-        "lib/netstandard2.0/System.Net.Http.Formatting.dll",
-        "lib/netstandard2.0/System.Net.Http.Formatting.xml",
-        "lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll",
-        "lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml",
-        "microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
-        "microsoft.aspnet.webapi.client.nuspec"
-      ]
-    },
     "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
       "sha512": "P6o80rVMEDv7zQQmIDoeoXHAXfS+bj2iwh5iURfd1EKrojxqVJW3zTYld2nleryT7BBlL7J0aT54tyLZyj8YRg==",
       "type": "package",
@@ -4239,21 +4152,6 @@
         "newtonsoft.json.nuspec"
       ]
     },
-    "Newtonsoft.Json.Bson/1.0.1": {
-      "sha512": "5PYT/IqQ+UK31AmZiSS102R6EsTo+LGTSI8bp7WAUqDKaF4wHXD8U9u4WxTI1vc64tYi++8p3dk3WWNqPFgldw==",
-      "type": "package",
-      "path": "newtonsoft.json.bson/1.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/Newtonsoft.Json.Bson.dll",
-        "lib/net45/Newtonsoft.Json.Bson.xml",
-        "lib/netstandard1.3/Newtonsoft.Json.Bson.dll",
-        "lib/netstandard1.3/Newtonsoft.Json.Bson.xml",
-        "newtonsoft.json.bson.1.0.1.nupkg.sha512",
-        "newtonsoft.json.bson.nuspec"
-      ]
-    },
     "NuGet.Frameworks/4.7.0": {
       "sha512": "qbXaB76XYUVLocLBs8Z9TS/ERGK2wm797feO+0JEPFvT7o7MRadOR77mqaSD4J1k8G+DlZQyq+MlkCuxrkr3ag==",
       "type": "package",
@@ -4269,33 +4167,6 @@
         "lib/netstandard1.6/NuGet.Frameworks.xml",
         "nuget.frameworks.4.7.0.nupkg.sha512",
         "nuget.frameworks.nuspec"
-      ]
-    },
-    "PagedList/1.17.0": {
-      "sha512": "Ou6F3WKXh49hOo0TxWM+SkIGuKllYPuPPvnSYOlQ1sTrtuEyuDUhYbSJd5Sdb06i/sWUJZTjiUecEs3Ht/Hx3g==",
-      "type": "package",
-      "path": "pagedlist/1.17.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/PagedList.dll",
-        "lib/net40/PagedList.xml",
-        "pagedlist.1.17.0.nupkg.sha512",
-        "pagedlist.nuspec"
-      ]
-    },
-    "PagedList.Mvc/4.5.0": {
-      "sha512": "D0M4qW2g4a9cwG8ozIKUnJheCrm5GpFTceqUl63AXWaAVnTgk+TysZYUOGMsBRuzid8aF+/E8b0bXM6+90jiEw==",
-      "type": "package",
-      "path": "pagedlist.mvc/4.5.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Content/Content/PagedList.css",
-        "lib/net40/PagedList.Mvc.XML",
-        "lib/net40/PagedList.Mvc.dll",
-        "pagedlist.mvc.4.5.0.nupkg.sha512",
-        "pagedlist.mvc.nuspec"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -4583,26 +4454,6 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
-      ]
-    },
-    "Stripe.net/37.6.0": {
-      "sha512": "MsLYtuplh4sP5mNpzDohyy7nJ2gzAv9c2/r3k5sjJE5bbM04GgNZ2ByTxKDSzeAk+PmhG7THxbzetHrwII+PXw==",
-      "type": "package",
-      "path": "stripe.net/37.6.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net45/Stripe.net.dll",
-        "lib/net45/Stripe.net.pdb",
-        "lib/net45/Stripe.net.xml",
-        "lib/net461/Stripe.net.dll",
-        "lib/net461/Stripe.net.pdb",
-        "lib/net461/Stripe.net.xml",
-        "lib/netstandard2.0/Stripe.net.dll",
-        "lib/netstandard2.0/Stripe.net.pdb",
-        "lib/netstandard2.0/Stripe.net.xml",
-        "stripe.net.37.6.0.nupkg.sha512",
-        "stripe.net.nuspec"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -8716,32 +8567,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
-    },
-    "X.PagedList.Mvc/8.0.7": {
-      "sha512": "Svb2MC/Cy5Q6z2Kj7e6hpWJJOs/R0o12oojyxXDsPat7YnrdYU3Tfs5ntk6SLbDLZNH0flPwNFQ1N+l5tQU/eg==",
-      "type": "package",
-      "path": "x.pagedlist.mvc/8.0.7",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net48/X.PagedList.Mvc.dll",
-        "x.pagedlist.mvc.8.0.7.nupkg.sha512",
-        "x.pagedlist.mvc.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.AspNet.WebApi.Client >= 5.2.7",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.4",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.4",
       "Microsoft.EntityFrameworkCore >= 3.1.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.4",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.4",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.3",
-      "PagedList.Mvc >= 4.5.0",
-      "Stripe.net >= 37.6.0",
-      "X.PagedList.Mvc >= 8.0.7"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.3"
     ]
   },
   "packageFolders": {
@@ -8750,11 +8585,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+      "projectUniqueName": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
       "projectName": "MovieToGo",
-      "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+      "projectPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
       "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\obj\\",
+      "outputPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8781,10 +8616,6 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
-          "Microsoft.AspNet.WebApi.Client": {
-            "target": "Package",
-            "version": "[5.2.7, )"
-          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[3.1.4, )"
@@ -8810,18 +8641,6 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[3.1.3, )"
-          },
-          "PagedList.Mvc": {
-            "target": "Package",
-            "version": "[4.5.0, )"
-          },
-          "Stripe.net": {
-            "target": "Package",
-            "version": "[37.6.0, )"
-          },
-          "X.PagedList.Mvc": {
-            "target": "Package",
-            "version": "[8.0.7, )"
           }
         },
         "imports": [
@@ -8845,37 +8664,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'PagedList 1.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "PagedList",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'PagedList.Mvc 4.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "PagedList.Mvc",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'X.PagedList.Mvc 8.0.7' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "X.PagedList.Mvc",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }
