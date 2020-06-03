@@ -8595,11 +8595,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\API\\obj\\",
+      "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",

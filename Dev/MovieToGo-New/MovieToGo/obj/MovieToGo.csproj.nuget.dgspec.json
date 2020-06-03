@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
         "projectName": "MovieToGo",
-        "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
         "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GERBER\\MovieToGo-New\\MovieToGo\\obj\\",
+        "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
