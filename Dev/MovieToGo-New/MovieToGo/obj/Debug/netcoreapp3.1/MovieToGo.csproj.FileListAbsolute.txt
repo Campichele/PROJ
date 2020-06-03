@@ -595,3 +595,9 @@ C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\PagedList.
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\PagedList.Mvc.dll
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
 C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\MovieToGo.csprojAssemblyReference.cache
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\MovieToGo-New\MovieToGo\obj\Debug\netcoreapp3.1\Razor\Views\Commentaire\Index.cshtml.g.cs

@@ -20,8 +20,8 @@ namespace API.Models
         [Key]
         [Column("ID_USER")]
         public short IdUser { get; set; }
-        [Column("ID_DOIT")]
-        public short IdDoit { get; set; }
+        [Column("ID_DROIT")]
+        public short IdDroit { get; set; }
         [Required]
         [Column("NOM")]
         [StringLength(32)]
@@ -45,9 +45,9 @@ namespace API.Models
         [StringLength(32)]
         public string Pseudo { get; set; }
 
-        [ForeignKey(nameof(IdDoit))]
+        [ForeignKey(nameof(IdDroit))]
         [InverseProperty(nameof(Droit.Utilisateur))]
-        public virtual Droit IdDoitNavigation { get; set; }
+        public virtual Droit IdDroitNavigation { get; set; }
         [InverseProperty("IdUserNavigation")]
         public virtual ICollection<Commentaire> Commentaire { get; set; }
         [InverseProperty("IdUserNavigation")]

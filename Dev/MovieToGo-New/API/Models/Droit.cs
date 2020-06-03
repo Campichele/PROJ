@@ -14,14 +14,14 @@ namespace API.Models
         }
 
         [Key]
-        [Column("ID_DOIT")]
-        public short IdDoit { get; set; }
+        [Column("ID_DROIT")]
+        public short IdDroit { get; set; }
         [Required]
         [Column("NOM")]
         [StringLength(32)]
         public string Nom { get; set; }
 
-        [InverseProperty("IdDoitNavigation")]
+        [InverseProperty("IdDroitNavigation")]
         public virtual ICollection<Utilisateur> Utilisateur { get; set; }
     }
 }

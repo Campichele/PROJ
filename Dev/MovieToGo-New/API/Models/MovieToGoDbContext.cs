@@ -305,9 +305,9 @@ namespace API.Models
 
                 entity.Property(e => e.Statut).HasComment("actif/non actif (ban)");
 
-                entity.HasOne(d => d.IdDoitNavigation)
+                entity.HasOne(d => d.IdDroitNavigation)
                     .WithMany(p => p.Utilisateur)
-                    .HasForeignKey(d => d.IdDoit)
+                    .HasForeignKey(d => d.IdDroit)
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_UTILISATEUR_DROIT");
             });
