@@ -9,7 +9,6 @@ using MovieToGo.Models;
 using PagedList;
 using System.Net;
 using System.Net.Http;
-using System.Threading.Tasks;
 
 
 using static System.Net.WebRequestMethods;
