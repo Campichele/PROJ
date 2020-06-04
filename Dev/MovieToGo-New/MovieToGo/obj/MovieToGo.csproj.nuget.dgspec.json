@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
+    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
+    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
         "projectName": "MovieToGo",
-        "projectPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+        "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
         "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\obj\\",
+        "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",

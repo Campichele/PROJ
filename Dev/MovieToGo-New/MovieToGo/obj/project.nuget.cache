@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YM4my8wjz8bSmSeOtG4H9i01OGFIky1kFfeA33hzTbP0sjlaa0L2W9h+x/N+pTmkGZYSkgDVyvMTWyk61H8wLQ==",
+  "dgSpecHash": "zToDi3Dkj3jcr8WqX7D/I23g5bS9fvMSNI6vOwjrw5Iwm+bmPMC/lUxf96yhXU0CiVrbtmLd8naqSryMgNmmdg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emix\\Desktop\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+  "projectFilePath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.4\\microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
