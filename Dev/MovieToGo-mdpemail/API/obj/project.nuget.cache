@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E3cNBTlNaX9Lap+ZbN+cLvPqzd9XNpUGnrY+A4vzB6MucggZ/RyukGOD81NrFLs+jXUb3KjXINjbbI9UBHu4ng==",
+  "dgSpecHash": "kUPsfz6h6Ccd86OmNOlsAwSBbqGuVSHPTDyBJcGz+Fa3uzHDDA9G+JLD3E6ej60Hhdjwdiu0RPbsYd+3QurW1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emix\\Desktop\\MovieToGo-New-4.6.20\\MovieToGo-New\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-mdpemail\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

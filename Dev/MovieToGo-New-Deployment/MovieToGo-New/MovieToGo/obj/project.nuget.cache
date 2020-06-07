@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TSegfts45q5ZwXlvMEQRDC/MyortXHBommjPXUlwgj/IBsr+EbBiCPjXtn74XPcbtiEwZ79Wk+jUlBUYAcX5NQ==",
+  "dgSpecHash": "eL7vb/R6CrkIkYNNA92Txk+zLpIYEu3WN5x32xyebWvxW4vQydxYFNTMcVH3hTGWEP49kbc+BKiX2vINFlv4uQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emix\\Desktop\\MovieToGo-New-4.6.20\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+  "projectFilePath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-New-Deployment\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.4\\microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
@@ -84,6 +84,7 @@
     "C:\\Users\\emix\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\emix\\.nuget\\packages\\stripe.net\\37.8.0\\stripe.net.37.8.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\emix\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
