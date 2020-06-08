@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MovieToGo.Models.FilmPossede>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdFilm)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUser)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdFilm)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUser)
+            </td>
+            <td>
+                <a asp-controller="Film" asp-action="Details" asp-route-id="@item.IdFilm">Details</a>
+            </td>
+        </tr>
+        @ViewBag.userid
+}
+    </tbody>
+</table>
