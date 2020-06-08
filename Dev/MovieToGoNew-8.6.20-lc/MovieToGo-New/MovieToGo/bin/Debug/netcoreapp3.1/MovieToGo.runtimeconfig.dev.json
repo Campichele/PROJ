@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\leacampiche\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\leacampiche\\.nuget\\packages"
+    ]
+  }
+}
