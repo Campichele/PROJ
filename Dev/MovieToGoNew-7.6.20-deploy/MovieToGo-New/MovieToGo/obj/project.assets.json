@@ -8723,19 +8723,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\emix\\.nuget\\packages\\": {}
+    "C:\\Users\\marpancini\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emix\\Desktop\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+      "projectUniqueName": "C:\\Users\\marpancini\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
       "projectName": "MovieToGo",
-      "projectPath": "C:\\Users\\emix\\Desktop\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
-      "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emix\\Desktop\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\obj\\",
+      "projectPath": "C:\\Users\\marpancini\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\MovieToGo.csproj",
+      "packagesPath": "C:\\Users\\marpancini\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marpancini\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoNew-7.6.20-deploy\\MovieToGo-New\\MovieToGo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\marpancini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8816,7 +8816,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
       }
     }
   },
