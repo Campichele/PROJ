@@ -1,0 +1,14 @@
+﻿@using Microsoft.Extensions.Options
+@model MovieToGo.Models.Acheter
+@{
+    ViewData["Title"] = "Acheter";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Merci de votre achat du film : @ViewBag.Nom prix :  <strong>@ViewBag.Prix CHF</strong> </h2>
+<h2>Merci de votre achat du film : @ViewBag.newIdU prix :  <strong>@ViewBag.newId1 CHF</strong> </h2>
+
+
+<button class="btn btn-primary" onclick="window.location.href='@ViewBag.link';">
+    Télécharger
+</button>
