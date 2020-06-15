@@ -1,0 +1,38 @@
+﻿@model MovieToGo.ViewModels.ContactViewModel
+@{
+    ViewData["Title"] = "Contact";
+}
+<h1>Contact</h1>
+
+<div id="contact-form row">
+    <form asp-controller="Home" asp-action="Contact" asp-anti-forgery="true" method="post">
+        <div class="form-group">
+            <div class="col-md-12 form-group">
+                <input asp-for="Name" class="form-control" placeholder="Name" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="col-md-12 form-group">
+                <input asp-for="Email" class="form-control" placeholder="Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="col-md-12 form-group">
+                <input asp-for="Subject" class="form-control" placeholder="Subject" />
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <div class="col-md-12 form-group">
+                <textarea asp-for="Message" class="message form-control" placeholder="Message..."></textarea>
+            </div>
+            <div class="col-md-6">
+                <div class="g-recaptcha" data-sitekey="6Lf7IaQZAAAAAGFyH6Lr6KYefm8Llej_O71W6CZW"></div>
+            </div>
+            <div class="col-md-6">
+                <button class="btn btn-primary" type="submit" id="submit">Send</button>
+            </div>
+        </div>
+    </form>
+</div>
+@if (ViewBag.Success == false || !string.IsNullOrWhiteSpace(ViewBag.Error))
+{
+    <div class="text-danger">@(string.IsNullOrWhiteSpace(ViewBag.Error) ? "Failed to send the message" : ViewBag.Error)</div>
+}
+
