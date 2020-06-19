@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSrxZyI9NHBbLHvqQ7Iv1aF/EJK2R8KOmG848nsP20IoxEGFYWW84iIRb4qWtHdRICHUo3tlNekoikS5U9tH1w==",
+  "dgSpecHash": "HE7St2eAadEVYZeG6IK65ybgYpZv0oOnDxKs2eSiTQuXsk1dC3+3NftW8XCkEeCwa10n4CVStJN+SOg0nvdzgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxime\\Desktop\\MovieToGo-18.06 Wishlist\\MovieToGo\\MovieToGo.csproj",
+  "projectFilePath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\MovieToGo-18.06 Wishlist - Final\\MovieToGo\\MovieToGo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxime\\.nuget\\packages\\mailkit\\2.7.0\\mailkit.2.7.0.nupkg.sha512",
     "C:\\Users\\Maxime\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",

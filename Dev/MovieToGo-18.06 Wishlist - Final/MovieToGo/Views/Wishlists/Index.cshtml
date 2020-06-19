@@ -19,21 +19,21 @@
     <tbody>
         @foreach (var item in Model)
         {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.Nom)
-                </td>
-                <td>
-                    <a asp-controller="Film" asp-action="Details" asp-route-id="@item.IdFilm">Details</a>
-                </td>
-                <td>
-                    <a asp-controller="Wishlists" asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
-                    @*<form asp-area="" asp-controller="Wishlists" asp-action="Delete" method="get">
-                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
-                        <input class="btn btn-danger" asp-route-id="@item.IdFilm" type="submit" value="Delete" />
-                    </form>*@
-                </td>
-            </tr>
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                <a asp-controller="Film" asp-action="Details" asp-route-id="@item.IdFilm">Details</a>
+            </td>
+            <td>
+                <a asp-controller="Wishlists" asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
+                <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                    <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                    <input class="btn btn-primary" type="submit" value="Acheter" />
+                </form>
+            </td>
+        </tr>
 
             @ViewBag.userid
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qTcOXD4+VDrnkqpe6HswGxf7o/wy+jlcq3fB2cLlaFbzJ9WRAnr+NJoL/hSE5H0q4QuT7+TbKreR3bN7st8IvA==",
+  "dgSpecHash": "uxHErZY/wBDtGQFuzAGNXdGYA1Clq/6SPGcOLM4Zj5fnOE90/aqA5fhPQ/pb4oDBknNefawzyT3WAo4J6oAq7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Maxime\\Desktop\\MovieToGo-18.06 Wishlist\\API\\API.csproj",
+  "projectFilePath": "E:\\Temp\\ETML-ES\\SIG2\\Gerber\\ProjetAPI\\GitHub\\PROJ\\Dev\\MovieToGo-18.06 Wishlist - Final\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Maxime\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "C:\\Users\\Maxime\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
