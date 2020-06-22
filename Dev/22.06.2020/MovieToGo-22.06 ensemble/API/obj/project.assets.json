@@ -8846,19 +8846,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leacampiche\\.nuget\\packages\\": {}
+    "C:\\Users\\maxpichonnat\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\leacampiche\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\API\\obj\\",
+      "projectPath": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\maxpichonnat\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leacampiche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maxpichonnat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

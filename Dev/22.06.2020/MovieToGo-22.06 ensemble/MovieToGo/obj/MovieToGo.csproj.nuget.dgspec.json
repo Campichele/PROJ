@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\MovieToGo\\MovieToGo.csproj": {}
+    "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\MovieToGo\\MovieToGo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\MovieToGo\\MovieToGo.csproj": {
+    "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\MovieToGo\\MovieToGo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\MovieToGo\\MovieToGo.csproj",
+        "projectUniqueName": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\MovieToGo\\MovieToGo.csproj",
         "projectName": "MovieToGo",
-        "projectPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\MovieToGo\\MovieToGo.csproj",
-        "packagesPath": "C:\\Users\\leacampiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble 2\\MovieToGo\\obj\\",
+        "projectPath": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\MovieToGo\\MovieToGo.csproj",
+        "packagesPath": "C:\\Users\\maxpichonnat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxpichonnat\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-22.06 ensemble\\MovieToGo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leacampiche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maxpichonnat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
