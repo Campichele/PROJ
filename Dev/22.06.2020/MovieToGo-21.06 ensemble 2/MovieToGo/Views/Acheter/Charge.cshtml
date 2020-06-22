@@ -1,0 +1,14 @@
+﻿@using Microsoft.Extensions.Options
+@model MovieToGo.Models.Acheter
+@{
+    ViewData["Title"] = "Acheter";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Merci de votre achat du film : @ViewBag.Nom prix :  <strong>@ViewBag.Prix CHF</strong> </h2>
+
+<form asp-action="Watch">
+    <button class="btn btn-primary" asp-controller="FilmPossedes" asp-action="Watch" asp-route-id="@ViewBag.idFilm">
+        Regarder
+    </button>
+</form>

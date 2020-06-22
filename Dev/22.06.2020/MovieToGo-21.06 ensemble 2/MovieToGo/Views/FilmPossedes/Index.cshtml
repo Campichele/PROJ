@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MovieToGo.Models.Film>
+
+@{
+    ViewData["Title"] = "My films";
+}
+
+<h1>My films</h1>
+
+
+<table class="table">
+    <thead>
+
+            <th>
+                @Html.DisplayNameFor(model => model.Nom)
+            </th>
+
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                <a asp-controller="Film" asp-action="Details" asp-route-id="@item.IdFilm">Details</a>
+            </td>
+            <td>
+                <form asp-action="Watch">
+                    <button class="btn btn-primary" asp-controller="FilmPossedes" asp-action="Watch" asp-route-id="@item.IdFilm">
+                        Watch
+                    </button>
+                </form>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
