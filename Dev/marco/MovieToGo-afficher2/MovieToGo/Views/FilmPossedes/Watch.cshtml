@@ -1,0 +1,28 @@
+﻿@model IEnumerable<MovieToGo.Models.Film>
+@inject SignInManager<IdentityUser> signInManager;
+
+@{
+    ViewData["Title"] = "Watch";
+    bool check = false;
+}
+
+
+
+@foreach (var item in Model)
+{
+    @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin") && item.IdFilm == ViewBag.idFilm)
+    {
+        <h1>@item.Nom</h1>
+
+        <video width="100%" oncontextmenu="return false;" controls controlsList="nodownload">
+            <source src="@ViewBag.pathFile" type="video/mp4">
+            Your browser does not support HTML video.
+        </video>
+        check = true;
+    }
+}
+
+@if (!check)
+{
+    <h1>Vous devez acheter le film avant de le regarder!!!</h1>
+}
