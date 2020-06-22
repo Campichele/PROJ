@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble\\API\\API.csproj": {}
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-21.06 ensemble\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble\\API\\API.csproj": {
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-21.06 ensemble\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-21.06 ensemble\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\leacampiche\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leacampiche\\Desktop\\MovieToGo-21.06 ensemble\\API\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-21.06 ensemble\\API\\API.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\22.06.2020\\MovieToGo-21.06 ensemble\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\leacampiche\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -91,7 +91,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8591,19 +8591,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Marco Pancini\\.nuget\\packages\\": {}
+    "C:\\Users\\Marco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marco Pancini\\Desktop\\MovieToGo-afficher\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\marco\\MovieToGo-afficher2\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Marco Pancini\\Desktop\\MovieToGo-afficher\\API\\API.csproj",
-      "packagesPath": "C:\\Users\\Marco Pancini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marco Pancini\\Desktop\\MovieToGo-afficher\\API\\obj\\",
+      "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\marco\\MovieToGo-afficher2\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\marco\\MovieToGo-afficher2\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Marco Pancini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8676,7 +8676,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

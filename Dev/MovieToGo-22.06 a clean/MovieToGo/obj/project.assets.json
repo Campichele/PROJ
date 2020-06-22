@@ -10692,19 +10692,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\maxpichonnat\\.nuget\\packages\\": {}
+    "C:\\Users\\Marco\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maxpichonnat\\Desktop\\MovieToGo-21.06 a clean\\MovieToGo\\MovieToGo.csproj",
+      "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-22.06 a clean\\MovieToGo\\MovieToGo.csproj",
       "projectName": "MovieToGo",
-      "projectPath": "C:\\Users\\maxpichonnat\\Desktop\\MovieToGo-21.06 a clean\\MovieToGo\\MovieToGo.csproj",
-      "packagesPath": "C:\\Users\\maxpichonnat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxpichonnat\\Desktop\\MovieToGo-21.06 a clean\\MovieToGo\\obj\\",
+      "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-22.06 a clean\\MovieToGo\\MovieToGo.csproj",
+      "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\MovieToGo-22.06 a clean\\MovieToGo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\maxpichonnat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10815,7 +10815,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   },
