@@ -1,0 +1,86 @@
+﻿@model PagedList.IPagedList<MovieToGoFilm.Models.Film>
+
+
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Films";
+}
+
+
+<h1>Films</h1>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm("Index", "Film", FormMethod.Get))
+{
+    <p>
+        Nom du film :  @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input class="btn btn-primary" type="submit" value="Rechercher" />
+    </p>
+}
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Nom", "Index", new { searchOrder = ViewBag.NomSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Date de sortie", "Index", new { searchOrder = ViewBag.DateSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Description", "Index", new { searchOrder = ViewBag.DescSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Durée", "Index", new { searchOrder = ViewBag.DureeSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Prix", "Index", new { searchOrder = ViewBag.PrixSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th>
+                @Html.ActionLink("Fichier", "Index", new { searchOrder = ViewBag.FichierSearch, currentFilter = ViewBag.CurrentFilter })
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nom)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateDeSortie)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Duree)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Prix)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fichier)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.IdFilm">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.IdFilm">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
+                    <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                        <input class="btn btn-primary" type="submit" value="Acheter" />
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+<pager class="pager-container" list="@Model" options="@PagedListRenderOptions.TwitterBootstrapPager" asp-action="Index" asp-controller="Film" />

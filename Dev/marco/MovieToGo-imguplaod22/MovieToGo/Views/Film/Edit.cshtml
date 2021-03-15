@@ -1,0 +1,87 @@
+﻿@model MovieToGo.Models.Film
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit</h1>
+
+<h4>Film</h4>
+<hr />
+<div class="row">
+    <div class="col-4">
+        <img src="@ViewBag.pathFile" alt="@Html.DisplayFor(model => model.Nom)" width="100%">
+            <label Value="image" class="control-label">Image</label>
+            <input type="file" name="img" />
+    </div>
+    <div class="col-8">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="IdFilm" />
+            <div class="form-group">
+                <label asp-for="IdDistributeur" class="control-label"></label>
+                <select asp-for="IdDistributeur" class="form-control" asp-items="ViewBag.IdDistributeur"></select>
+                <span asp-validation-for="IdDistributeur" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdSousTitre" class="control-label"></label>
+                <select asp-for="IdSousTitre" class="form-control" asp-items="ViewBag.IdSousTitre"></select>
+                <span asp-validation-for="IdSousTitre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdLangue" class="control-label"></label>
+                <select asp-for="IdLangue" class="form-control" asp-items="ViewBag.IdLangue"></select>
+                <span asp-validation-for="IdLangue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdNationalite" class="control-label"></label>
+                <select asp-for="IdNationalite" class="form-control" asp-items="ViewBag.IdNationalite"></select>
+                <span asp-validation-for="IdNationalite" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nom" class="control-label"></label>
+                <input asp-for="Nom" class="form-control" />
+                <span asp-validation-for="Nom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateDeSortie" class="control-label"></label>
+                <input asp-for="DateDeSortie" class="form-control" />
+                <span asp-validation-for="DateDeSortie" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Duree" class="control-label"></label>
+                <input asp-for="Duree" class="form-control" />
+                <span asp-validation-for="Duree" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Prix" class="control-label"></label>
+                <input asp-for="Prix" class="form-control" />
+                <span asp-validation-for="Prix" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fichier" class="control-label"></label>
+                <input asp-for="Fichier" class="form-control" />
+                <span asp-validation-for="Fichier" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

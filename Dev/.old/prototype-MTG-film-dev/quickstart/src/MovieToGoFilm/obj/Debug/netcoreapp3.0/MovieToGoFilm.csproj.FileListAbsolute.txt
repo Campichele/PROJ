@@ -1,0 +1,965 @@
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Maxime\source\repos\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CoreCompileInputs.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\MovieToGoFilm\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.genruntimeconfig.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.genruntimeconfig.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CoreCompileInputs.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emix\Desktop\prototype\prototype-MTG\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CoreCompileInputs.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Documents\GitHub\PROJ\Dev\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.genruntimeconfig.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.genruntimeconfig.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.exe
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.deps.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.runtimeconfig.dev.json
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\PagedList.Mvc.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Mvc.Core.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\X.PagedList.Web.Common.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csprojAssemblyReference.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CoreCompileInputs.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfoInputs.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.AssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.input.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.TagHelpers.output.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorCoreGenerate.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Commentaire\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Create.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Delete.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Details.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Edit.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.RazorTargetAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.Views.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CopyComplete
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.Manifest.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\staticwebassets\MovieToGoFilm.StaticWebAssets.xml
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.pdb
+C:\Users\emix\Desktop\prototype-MTG-film-dev - Copie\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.genruntimeconfig.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\Stripe.net.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Acheter\Charge.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\Razor\Views\Film\Acheter.cshtml.g.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.csproj.CoreCompileInputs.cache
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\emix\Desktop\prototype-MTG-film-dev\quickstart\src\MovieToGoFilm\obj\Debug\netcoreapp3.0\MovieToGoFilm.MvcApplicationPartsAssemblyInfo.cache

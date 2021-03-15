@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "03uXpFY0LS+BKcJ88J2yCLFyL1FGl6RsDXuPwJF/zk6YruJe8io4IQSiMUveslKA+KZjHL/iZpadetbbAJieSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emix\\Desktop\\prototype\\prototype-MTG\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emix\\.nuget\\packages\\identitymodel\\4.1.1\\identitymodel.4.1.1.nupkg.sha512",
+    "C:\\Users\\emix\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\emix\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

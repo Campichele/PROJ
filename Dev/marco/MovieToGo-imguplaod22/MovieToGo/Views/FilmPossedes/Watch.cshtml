@@ -1,0 +1,17 @@
+﻿@model MovieToGo.Models.FilmPossede
+
+@{
+    ViewData["Title"] = "Watch";
+}
+
+<h1>Index</h1>
+
+
+
+<video width="100%" controls>
+    <source src="@ViewBag.pathFile" type="video/mp4">
+    <source src="mov_bbb.ogg" type="video/ogg">
+    Your browser does not support HTML video.
+</video>
+
+

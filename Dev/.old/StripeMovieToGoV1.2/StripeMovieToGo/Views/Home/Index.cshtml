@@ -1,0 +1,21 @@
+﻿@using Microsoft.Extensions.Options
+@inject IOptions<StripeMovieToGo.Data.StripeSettings> Stripe
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<!-- inject IOptions<StripeMovieToGo.Data.StripeSittings> Stripe est utilisé pour ne pas devoir rajouter les clef Stripe ici-->
+<div class="text-center">
+    <form action="/Home/Charge" method="POST">
+        <article>
+            <label>Le prix du film 300 : 8.00CHF</label>
+        </article>
+        <script src="//checkout.stripe.com/v2/checkout.js"
+                class="stripe-button"
+                data-key="@Stripe.Value.PublishableKey"
+                data-locale="auto"
+                data-description="Achat du film 300">
+        </script>
+    </form>
+</div>

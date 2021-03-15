@@ -1,0 +1,131 @@
+﻿@model X.PagedList.IPagedList<MovieToGo.Models.Film>
+@inject SignInManager<IdentityUser> signInManager;
+
+
+
+
+@using X.PagedList.Mvc.Core;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Movies";
+}
+
+
+<h1>Movies</h1>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Film", FormMethod.Get))
+{
+    <div class="row">
+        <div class="form-group col-sm-3">
+            <div>Name</div>
+            @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        </div>
+        <div class="form-group col-sm-3">
+            <div>Time</div>
+            @Html.TextBox("SearchInt", ViewBag.CurrentFilter as string)
+        </div>
+        <div class="form-group col-sm-3">
+            <div>Price max</div>
+            @Html.TextBox("SearchPriceUp", ViewBag.CurrentFilter as string)
+        </div>
+        <div class="form-group col-sm-3">
+            <input class="btn btn-primary" type="submit" value="Search" />
+            <a asp-controller="Film" asp-action="Index" class="d-flex align-items-center"> | Back to full List</a>
+        </div>
+    </div>
+}
+
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Nom
+            </th>
+            <th>
+                Date de sortie
+            </th>
+            <th>
+                Description
+            </th>
+            <th>
+                Durée
+            </th>
+            <th>
+                Prix
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateDeSortie)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Duree)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prix)
+            </td>
+
+            @if (signInManager.IsSignedIn(User) && User.IsInRole("Admin"))
+            {
+        <td>
+            <a asp-action="Edit" asp-route-id="@item.IdFilm">Edit</a> |
+            <a asp-action="Details" asp-route-id="@item.IdFilm">Details</a> |
+            <a asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
+            <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                <input class="btn btn-primary" type="submit" value="Acheter" />
+            </form>
+            <form asp-area="" asp-controller="Film" asp-action="Wishlists" method="get">
+                <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                <input class="btn btn-primary" type="submit" value="Wishlist" />
+            </form>
+        </td>
+            }
+            else if (signInManager.IsSignedIn(User) && User.IsInRole("User"))
+            {
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.IdFilm">Details</a> |
+                    <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                        <input class="btn btn-primary" type="submit" value="Acheter" />
+                    </form>
+                    <form asp-area="" asp-controller="Film" asp-action="Wishlists" method="get">
+                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                        <input class="btn btn-primary" type="submit" value="Wishlist" />
+                    </form>
+                </td>
+
+            }
+            else
+            {
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.IdFilm">Details</a> 
+                </td>
+            }
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+

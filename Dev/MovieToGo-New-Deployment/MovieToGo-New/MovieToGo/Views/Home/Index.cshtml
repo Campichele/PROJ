@@ -1,0 +1,12 @@
+﻿@model MovieToGo.Models.Film
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bienvenue dans MovieToGo</h1>
+    <!--Randomizer-->
+    Film proposé aléatoirement :
+    <a asp-controller="Film" asp-action="Details" asp-route-id="@ViewBag.idFilm">@Html.DisplayFor(model => model.Nom)</a>
+ </div>

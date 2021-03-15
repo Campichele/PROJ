@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MovieToGo.Models.Film>
+
+@{
+    ViewData["Title"] = "Wishlist";
+}
+
+<h1>Wishlist</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Films
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                <a asp-controller="Film" asp-action="Details" asp-route-id="@item.IdFilm">Details</a>
+            </td>
+            <td>
+                <a class="btn btn-danger" asp-controller="Wishlists" asp-action="Delete" asp-route-id="@item.IdFilm">Delete</a>
+
+                    <form asp-area="" asp-controller="Film" asp-action="Acheter" method="get">
+                        <input type="hidden" value="@item.IdFilm" name="IdFilm">
+                        <input class="btn btn-primary" type="submit" value="Acheter" />
+                    </form>
+               
+            </td>
+        </tr>
+
+            @ViewBag.userid
+        }
+    </tbody>
+</table>

@@ -1,0 +1,11 @@
+C:\DEV\BergerSebastien2\BergerSebastien2\obj\Debug\BergerSebastien2.csprojAssemblyReference.cache
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\BergerSebastien2.exe.config
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\BergerSebastien2.exe
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\BergerSebastien2.pdb
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\EntityFramework.dll
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\EntityFramework.SqlServer.dll
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\EntityFramework.xml
+C:\DEV\BergerSebastien2\BergerSebastien2\bin\Debug\EntityFramework.SqlServer.xml
+C:\DEV\BergerSebastien2\BergerSebastien2\obj\Debug\BergerSebastien2.csproj.CopyComplete
+C:\DEV\BergerSebastien2\BergerSebastien2\obj\Debug\BergerSebastien2.exe
+C:\DEV\BergerSebastien2\BergerSebastien2\obj\Debug\BergerSebastien2.pdb
