@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\.old\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj": {
+    "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\.old\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "projectUniqueName": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\.old\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj",
         "projectName": "MovieToGoFilm",
-        "projectPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj",
-        "packagesPath": "C:\\Users\\emix\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emix\\Documents\\GitHub\\PROJ\\Dev\\MovieToGoFilmStripe\\MovieToGoFilm\\obj\\",
+        "projectPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\.old\\MovieToGoFilmStripe\\MovieToGoFilm\\MovieToGoFilm.csproj",
+        "packagesPath": "C:\\Users\\Marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marco\\OneDrive\\Documents\\GitHub\\PROJ\\Dev\\.old\\MovieToGoFilmStripe\\MovieToGoFilm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -109,7 +111,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

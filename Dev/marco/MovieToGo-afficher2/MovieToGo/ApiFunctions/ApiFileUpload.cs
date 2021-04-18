@@ -25,14 +25,7 @@ namespace MovieToGo.ApiFunctions
                         await client.PostAsync(client.BaseAddress + "api/" + fileType + "/" + id, stream);
                     }
                 }
-                else
-                {
-                    using (var stream = new MultipartFormDataContent())
-                    {
-                        stream.Add(new StreamContent(file.OpenReadStream()), "File", fileName);
-                        await client.PostAsync(client.BaseAddress + "api/" + fileType + "/" + id, stream);
-                    }
-                }
+
 
             }
         }
